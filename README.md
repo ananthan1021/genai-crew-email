@@ -51,9 +51,28 @@ file --> settings
 
 3. To add gemini API key, craete .env file under venv(virtual enviroenmnet folder)
 
-   <img width="746" height="191" alt="image" src="https://github.com/user-attachments/assets/003eb783-85b6-4232-9be8-fc92b9ba68b2" />
+<img width="730" height="139" alt="image" src="https://github.com/user-attachments/assets/02be7df0-f759-49be-95c7-bf17039a5bad" />
 
-5. 
+5. Validate the API key by loading env
+
+- ENV var load
+
+from dotenv import load_dotenv
+load_dotenv()
+
+import gemini to crewai
+
+"from crewai import LLM
+llm = LLM (
+    model="gemini/gemini-2.0-flash",
+    temperature=0.1
+)
+llm.call("who is CEO of publicissapient.") "
+
+
+
+   <img width="920" height="370" alt="image" src="https://github.com/user-attachments/assets/3e338802-0f0a-44ae-80f9-c2dc4699c65e" />
+
 
 
 
