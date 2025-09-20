@@ -17,7 +17,7 @@ https://docs.astral.sh/uv/getting-started/installation/#installation-methods
 
  uv init crewai-ananthan
 
-5. Open project in c
+5. Open project in pycharm
 
 6. add crew packge
 
@@ -43,6 +43,16 @@ file --> settings
    <img width="578" height="155" alt="image" src="https://github.com/user-attachments/assets/b9bbb79e-f699-4c1b-9279-d57eea711f82" />
 
    <img width="633" height="257" alt="image" src="https://github.com/user-attachments/assets/9fa7732c-73a8-4711-8d70-fe2b609a52c4" />
+
+2. Validate the file craetion
+
+   <img width="317" height="220" alt="image" src="https://github.com/user-attachments/assets/3b0ca86c-5043-4e01-8e07-bad11d4963cc" />
+
+3. To add gemini API key, craete .env file under venv(virtual enviroenmnet folder)
+
+   <img width="746" height="191" alt="image" src="https://github.com/user-attachments/assets/003eb783-85b6-4232-9be8-fc92b9ba68b2" />
+
+5. 
 
 
 
