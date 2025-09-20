@@ -1,4 +1,4 @@
-<img width="304" height="269" alt="image" src="https://github.com/user-attachments/assets/302859ef-5f11-4313-b314-eaef09e8019b" /># genai-crew-email
+
 
 1. Download and install pycharm (python editor)
 
@@ -31,7 +31,7 @@ https://docs.astral.sh/uv/getting-started/installation/#installation-methods
 
 <img width="304" height="269" alt="image" src="https://github.com/user-attachments/assets/a8fd3358-7b0b-4455-aa82-c0cd71e475a5" />
 
-7. check the interpreter is loaded
+7. check the interpreter is loaded, if not choose add interpreter and imprort the interpreter from local
 file --> settings
 
 <img width="881" height="362" alt="image" src="https://github.com/user-attachments/assets/ec0814c7-fcd6-4785-b45c-fbb6261df782" />
