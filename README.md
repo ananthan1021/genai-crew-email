@@ -73,6 +73,9 @@ llm.call("who is CEO of publicissapient.") "
 
    <img width="920" height="370" alt="image" src="https://github.com/user-attachments/assets/3e338802-0f0a-44ae-80f9-c2dc4699c65e" />
 
+   <img width="900" height="342" alt="image" src="https://github.com/user-attachments/assets/6e2a45d4-c2a4-46f5-9272-2502b252469e" />
+
+
 
 
 
