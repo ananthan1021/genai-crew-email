@@ -11,7 +11,8 @@ https://docs.astral.sh/uv/getting-started/installation/#installation-methods
 
 3. Get Gemini API key
 
- https://aistudio.google.com/apikey?_gl=1*1p6dkad*_ga*MTExODI4MDA0LjE3NTgzNzU0MDU.*_ga_P1DBVKWT6V*czE3NTgzNzU0MDQkbzEkZzEkdDE3NTgzNzU1MTUkajIwJGwwJGg1MDAyMzExOTg.
+<img width="730" height="139" alt="image" src="https://github.com/user-attachments/assets/6f6ac4a6-7b84-401c-9985-27f111fb612e" />
+
 
  4. Craete project
 
