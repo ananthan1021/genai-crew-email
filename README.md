@@ -1,4 +1,4 @@
-# genai-crew-email
+<img width="304" height="269" alt="image" src="https://github.com/user-attachments/assets/302859ef-5f11-4313-b314-eaef09e8019b" /># genai-crew-email
 
 1. Download and install pycharm (python editor)
 
@@ -17,15 +17,25 @@ https://docs.astral.sh/uv/getting-started/installation/#installation-methods
 
  uv init crewai-ananthan
 
-5. Open project in pycharm
+5. Open project in c
 
 6. add crew packge
 
 # uv add crewai[tools]
 
-6. chekc the interpreter under .venv --> scripts directory
+6. Configure Interpreter:
+ 
+ check interpreter is present under our virtual environment
+ 
+ .venv --> scripts directory
 
 <img width="304" height="269" alt="image" src="https://github.com/user-attachments/assets/a8fd3358-7b0b-4455-aa82-c0cd71e475a5" />
+
+7. check the interpreter is loaded
+file --> settings
+
+<img width="881" height="362" alt="image" src="https://github.com/user-attachments/assets/ec0814c7-fcd6-4785-b45c-fbb6261df782" />
+
 
   
 
@@ -42,7 +52,7 @@ https://docs.astral.sh/uv/getting-started/installation/#installation-methods
 
 
 
-Notes:
+**Notes:**
 
 1. What is an Interpreter?
 
