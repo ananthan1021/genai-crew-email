@@ -1,4 +1,4 @@
-
+Prerequisites
 
 1. Download and install pycharm (python editor)
 
@@ -35,6 +35,15 @@ https://docs.astral.sh/uv/getting-started/installation/#installation-methods
 file --> settings
 
 <img width="881" height="362" alt="image" src="https://github.com/user-attachments/assets/ec0814c7-fcd6-4785-b45c-fbb6261df782" />
+
+**Setup First Agant**
+
+1. Right click on project --> new -->Jupyter Notebook and set agent name "1_email_agent"
+
+   <img width="578" height="155" alt="image" src="https://github.com/user-attachments/assets/b9bbb79e-f699-4c1b-9279-d57eea711f82" />
+
+   <img width="633" height="257" alt="image" src="https://github.com/user-attachments/assets/9fa7732c-73a8-4711-8d70-fe2b609a52c4" />
+
 
 
   
